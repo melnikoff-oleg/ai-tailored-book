@@ -1,0 +1,6 @@
+first cycle
+- chapters don't persist
+- rewrittend introduction is weird
+- quality of analogies is very low, it doesn't get the gist of the original, maybe AI has to know previous chapters to understand the context
+- in the form of the txt file it's hard to read, no clear headings, no bold lines
+- sometimes it hallucinates, thinks that I have a wife
