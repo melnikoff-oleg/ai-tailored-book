@@ -1,0 +1,75 @@
+first cycle of improvements
+- chapters don't persist (fixed)
+- rewrittend introduction is weird (fixed)
+- quality of analogies is very low, it doesn't get the gist of the original, maybe AI has to know previous chapters to understand the context (fixed)
+- in the form of the txt file it's hard to read, no clear headings, no bold lines (fixed)
+- sometimes it hallucinates, thinks that I have a wife (fixed)
+- add chapter summaries and other contents that are not in the book (fixed)
+
+second cycle of improvements
+- some hallucinations
+- structure of the book is not very good, it's not easy to read
+
+brainstorm: how the ideal output might look like?
+- rewritten book in MD 8 + 5 + 3
+- personalized book summary with actionables 8 + 7 + 7
+- personalized ideas and actionables 7 + 8 + 8
+- chatbot for questions 
+- personalized section for each chapter
+
+metrics to grade:
+- usefulness for me
+- ease of showing it to others
+- ease of use
+
+third cycle of improvements
+- actionables are related to the whole book, not just the chapter
+- summary is not personalized, it's the same for everyone
+- have to add emoji
+
+
+
+# Fundamentals: Why Tiny Changes Make a Big Difference
+### SUMMARY
+The chapter "# Fundamentals: Why Tiny Changes Make a Big Difference" of "Atomic Habits" emphasizes the power of small, incremental improvements in achieving substantial long-term success and transformation. Drawing inspiration from the dramatic turnaround of British Cycling, the chapter illustrates how the aggregation of marginal gains, even as minute as 1%, can lead to exceptional outcomes over time. This principle is rooted in the concept that habits act as the compound interest of self-improvement—tiny, consistent changes compound to produce remarkable results. Instead of aiming for immediate, large-scale changes, focusing on small adjustments in daily habits can steer life toward a vastly different and often more successful trajectory.
+
+### ACTIONABLES
+1. **Morning Precision Tuning**: Integrate a 5-minute journaling habit into your morning routine to note your top priority for the day, ensuring a focused start.
+
+2. **Systematic Focus Blocks**: Adjust your Pomodoro sessions by increasing focus time incrementally by 1% (about 30 seconds more per session) every week to gradually enhance your productivity stamina.
+
+3. **Dietary Incrementalism**: Each week, replace one processed food item from your meal with a healthier option like fruits or nuts, advancing towards your clean eating goal gradually.
+
+4. **Nighttime Wind-down Addition**: Add a 1-minute meditation to your night routine focusing on the day’s achievements and lessons, which can incrementally increase to a longer period as you find it beneficial.
+
+5. **Learning Habit Stacking**: Attach a 5-minute reading or research session on a new technology or skill to your coffee break, turning idle time into productive learning.
+
+6. **Fitness Micro-loading**: Increase your workout intensity or duration by just 1% each session. This could be adding one more rep to your exercise or running an extra minute. Track these increments to visualize progress.
+
+7. **Digital Minimalism Increment**: Gradually reduce your social media exposure by setting a timer to decrease usage by 1 minute each day, reallocating this time to activities like stretching or brief walks.
+
+8. **Desk Dynamics**: Every hour, utilize your height-adjustable desk by switching positions from sitting to standing for at least 5-10 minutes, gradually increasing as comfortable.
+
+9. **Affirmation Adjustment**: Integrate a daily 30-second affirmation session post-shower, focusing on your vision and goals, steadily building this into a longer reflective practice.
+
+10. **Posture Checks**: Set a reminder for every 2 hours to check and correct your posture, especially during long work sessions, this small habit will contribute to building better overall posture.
+
+11. **Positive Evening Review**: End your day by writing down one small success or thing you were grateful for that day. This helps build a positive mindset and keeps you motivated.
+
+12. **Mindful Eating**: Start your meals by taking a few seconds to appreciate the food. This practice helps improve your eating habits by making you more mindful and possibly slowing down your eating pace.
+
+13. **Tech-Free Meals**: Implement a rule to have at least one meal per day without any gadgets around. Use this time to connect with your girlfriend or simply enjoy the eating experience, enhancing relationship bonds and digestion.
+
+14. **Active Work Breaks**: Incorporate a short 3-5 minute exercise or stretching session mid-afternoon to re-energize your body and clear your mind, making the later hours more productive.
+
+15. **Sleep Consistency**: Aim to go to bed 1 minute earlier each night until reaching your ideal bedtime, making the shift gradually to improve adherence.
+
+16. **Email Management**: Set specific times to check emails (e.g., mid-morning and mid-afternoon), starting with broad windows and narrowing down as you find the optimal times that interfere least with your focus.
+
+17. **Hydration Habit**: Increase your water intake by one glass each day until you reach your hydration goals, improving overall health and energy levels.
+
+18. **Social Connection Increments**: Increase the time spent with your parents or friends by 1% each week, whether through longer calls or more frequent interactions, to strengthen bonds without overwhelming your schedule.
+
+19. **Task Delegation**: Identify one small, recurring task each month that can be delegated or automated, freeing up more time for high-priority activities.
+
+20. **Feedback System**: Create a simple weekly review system to evaluate what’s working and what’s not in your routines, allowing for small tweaks that can lead to big improvements over time.

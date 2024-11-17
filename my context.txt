@@ -1,43 +1,29 @@
 About me:
-I am a 24 year-old aspiring tech entrepreneur trying to figure out my business model. I have a technical background: in high school I studied math hard, participated and won math competitions on the national level. Then at the university I studied maths and computer sciences, with a bigger accent in programming and machine learning. I had 2 internships in big tech companies as a deep learning engineer working with large language models. Then I worked for 2 years in algorithmic trading as a quantitative researcher and also used AI there. Right now I’m looking to build a solution to some sort of problem using AI. I also want to develop my personal brand by posting on Twitter and YouTube, sharing how to use AI tools to solve real-world problems. I have my girlfriend Anastasiia and we live together.
+I am a 24 year-old man, software engineer. I’m mostly focused on my career, and trying to balance it with a decent personal life. I live together with my girlfriend. We work from home most of the time, a have a separate room as my personal cabinet, so I can focus on my work. 
 
-More details about my day-to-day life:
-- I work from home only, I have a separate cabinet
-- We live in a 2 bedroom apartment, so we have a living room, a cabinet for me and a master bedroom
-- I try to start every day early and with the most important work, usually it’s developing an AI project or making content around it on YouTube, but sometimes my focus breaks with small routine tasks, or my work-life borders with my girlfriend are not clear enough
-- I’m working out regularly, almost every day, but the time and duration of the workout fluctuates
-- I always have a big stack of small, mid to low importance tasks, or they might be even highly important but routine, and I neglect them, always prioritizing them less then my main work and usually finding myself with no energy to do them and they feel like a chore
-- I’m eating relatively healthy: oat meal, nuts, honey, berries, steak, eggs, bread, potato, green salad, cottage cheese, yoghurt, milk, coffee, coke, pasta, dark chocolate, …
-- I’m trying to wake up at 5 am every day, but it’s tough, because I have to go to bed early. Going to bed early while living with someone else requires even more discipline
-- Sometimes I struggle with addiction to social media, I can check emails/twitter/instagram/telegram sometimes too often
-- Sometimes I can catch myself in self-reinforcing downwards cycle: stress + no workout + bad sleep + no sex + bad food + less productive work done
-- I just relocated to Dubai after 2 years living in Amsterdam and it takes time to get used to it, to get comfortable with a new city. I’d love to work as much as I can but sometimes I have to spend time on side routine tasks
-- Sometimes a can eat a snack and I deeply hate it, because my eating schedule goes broke
-- Sometimes I struggle with a proper recovery, I can work too much or even have rest, but it might not be very healing. I definitely need fresh ideas on how to recover better
-- I had a habit of reviewing my visualisation/affirmation board every day first thing in the morning and right before bed, but lately I wasn’t doing that and I regret it
-- I struggle to chat with people regularly, I always have a ton of unread messages sent to me that feels like a chore; I ignore many of them because I can’t find time and this makes me feel miserable; I can’t find the time because I think other tasks are more priority
-- I’m not consistent with doing something good for myself every day: have a coffee with a book in a cafe, have a massage, visit an ice bath, visit a sauna, … - I struggle to do it consistently
-- I struggle very very much with lots of distractions; I want to remove all of them from my life
-- I have to post on social media daily content about AI, but it gets hard not to scroll and watch useless stuff while I’m posting
-- Producing and editing content is very hard, because I’m new to it, to make something really high quality I have to invest big time
+Usually my day looks like that:
+- I wake up between 5 and 6:30 am (probably 1 hour before my girlfriend)
+- I brush my teeth, maybe take a shower, put on clothing and then either start working or doing something else that feels right: reading a book, maybe reflecting, but eventually I start working soon
+- I have a decent block of focused work (I usually work by Pomodoro and do little warm-ups between sessions, also I drink my coffee in this time)
+- breakfast with my girlfriend
+- more work until 12 pm
+- workout at the gym and lunch until 2 pm
+- more work (not that focused though, because I feel less energized compared to the morning) until 5-7 pm (also we can have a dinner at 5-7)
+- if I have time I chill somehow and then start my night routine like shower, teeth, massage, setting tomorrow goals etc
 
 Some things that I love:
-Artificial intelligence, business, books, audiobooks, podcasts, writing code, working out, content creation, wellness procedures (ice bath, floating, cryotherapy, massage, acupuncture, infrared sauna), stretching, sport races like HYROX or runs, learning valuable skills like sales, marketing, managing people, speaking, presentation; watching  movies, travel, nature, exploring new places, eating delicious food, eating healthy food, having cool experiences with my girlfriend, trying new sports, playing chess, shopping stylish clothes, buying consultations with experts like a stylist or a nutritionist. Spending time with my parents (at least online, since we live in different countries, but preferably in real life of course). Connecting with nature, being free of all distractions.
+Artificial intelligence, business, books, audiobooks, podcasts, writing code, working out, content creation, wellness procedures (ice bath, floating, cryotherapy, massage, acupuncture, infrared sauna), stretching, sport races like HYROX or runs, learning valuable skills like sales, marketing, managing people, speaking, presentation; watching  movies, travel, nature, exploring new places, eating delicious food, eating healthy food, having cool experiences with my girlfriend, trying new sports, playing chess, shopping stylish clothes, buying consultations with experts like a stylist or a nutritionist, drinking coffee, spending time calmfully and piecefully. Spending time with my parents (at least online, since we live in different countries, but preferably in real life of course). Connecting with nature, being free of all distractions.
 
-Who I wanna become:
-A legendary maestro, builder of my own thing, of my own craft. Deeply loving my craft. I don’t wanna be focused on many things, I want just select few. Intelligent, smart, experienced tech entrepreneur. Great leader. Developed sales, marketing, people management, public speaking, English speaking, presentation, content creation, personal branding skills. Huge knowledge and experience in the AI space. Developed personal boundaries: I say no to people very often, I protect my time. Developed sportsman: beautiful athletic physique, flexible, fast, developed heart, great coordination, great agility. Training pretty much every day, having a fixed time or situation when I do it. Reading/developing myself pretty much every day. Waking up at 5 am pretty much every day, going to bed at 8 pm pretty much every day. Eating very clean food that optimizes for longevity, never overeat. Having great relationships with my girlfriend, partners, employees. Empathic person. Millions of followers. Having a great posture. Always having a very clear and inspiring vision for my future and who I wanna be. Making $1.000.000 profit every month with my business.
+How do I want to improve my life right now and what habits I want to build, in order of priority:
+- huge amounts of deep work every day, preferably 10 hours
+- always having a clear vision of where I’m going, writing goals down, being obsessed over it, doing affirmations, doing visualization, adjusting the vision when regularly because my perception changes
+- going to bed (actually lights off) at 8:30 pm and waking up at 5 am
+- being more organized: calenader, to-do list
+- eliminate distractions: almost no time on social media, no checking updates, no emails, no notifications etc. when using social media for work having all the recommendations blocked so I can focus on the main thing
+- I want to have a morning routine (but I love to start working almost immediately) and night routine - and I love routines to be quick and simple
+- I want to spend some dedicated daily time on learning, I want to guarantee that I’m becoming 1% better/smarter every day no matter what
+- meditation every day to maintain very clear mind
+- eating very clean:  beef, chicken, salmon, eggs, avocado, nuts, honey, dark chocolate, rice, quinoa, potato, rarely cheese, dates, banana. almost fully avoid: processedsugars, gluten, low amounts of caffeine, no food after 6 pm, 13h+ fast every day
+- having regular workouts, very clean focused time, no distractions in it, focused on the proper technique and workouts tracking, developing my physique gradually, generally active lifestyle, not only sitting at my desk and going to the gym (also I have a height adjustable desk), also building a great posture
 
-How do I want to improve my life right now:
-- I want to wake up at 5 am every day, and go to bed at 8:30 pm consistently
-- I want to have very low amount of distractions: almost no social media, my phone turned off until 1 pm and from 6 pm, no small routine tasks in the morning
-- I want to make my work more focused and untouchable, I want my girlfriend to respect it and not distract me when I’m in a deep work state
-- I want to spend 80% of my time on growing my AI expertise and producing content about it; growing the expertise by 1) practicing on the real world problems, 2) learning theory, 3) talking to experts and being a part of the community
-- I want to have a very clear vision of where I’m going, make it printed as a visualization/affirmation board, practice with it every day, refresh and adjust it regularly
-- I want more simplicity and piece in my life: having calm time reading daily, walking, and other practices
-- I want to have some regular dedicated time for solving small routine problems or implementing minor improvements in life, so basically doing other work apart from the most important business work
-- I want to learn something valuable every day and guaranteed become 1% better every day
-- I want to do something good for myself every day, at least some subtle thing
-- I want to build and maintain an accountability group with other business owners who also post content, so we can push each other and learn from each other
-- I want to work out every day, preferably with in a specific time, with a specific plan of what I’m training
-- I want to spend high-quality time with main people in my life
-- I want to eat clean food and love it, but don’t feel the whole food prep and cleaning and stuff as a chore
+All that habits I want to be flexible, I want them to work under different circumstances, I don't wanna be rigid and strict with them.
